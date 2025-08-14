@@ -1,3 +1,4 @@
+# این برنامه جهت ساختن پسوورد رندوم هستش
 from random import choices
 import string
 
